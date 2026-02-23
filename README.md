@@ -1,8 +1,5 @@
-# SupplyChain-Analytics-Dashboard
-Power BI and SQL projects showcasing data analysis, visualization, and business insights
-
 # Supply Chain Analytics Dashboard (Power BI)
-
+Power BI and SQL projects showcasing data analysis, visualization, and business insights
 This dashboard consolidates SKU profitability, supplier quality, inspection results, cost efficiency, and stock replacement analysis.
 
 ## Key Features
